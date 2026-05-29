@@ -9,16 +9,22 @@
    "Code is poetry written in logic."
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=500&lines=PHP+Developer+%7C+Laravel+Backend+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=420&lines=PHP+Developer+%7C+Laravel+Backend" alt="Typing SVG">
 </p>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=quangtruong2003&color=39ff14&label=PROFILE+VIEWS)](https://github.com/quangtruong2003)
-[![GitHub Followers](https://img.shields.io/github/followers/quangtruong2003?style=flat&color=00fff7&labelColor=0d1117)](https://github.com/quangtruong2003)
-[![Stars](https://img.shields.io/github/stars/quangtruong2003?style=flat&color=bf5af2&labelColor=0d1117)](https://github.com/quangtruong2003)
-
-</div>
+<p align="center">
+  <a href="https://github.com/quangtruong2003">
+    <img src="https://komarev.com/ghpvc/?username=quangtruong2003&label=PROFILE+VIEWS&color=39ff14" alt="Profile Views" height="28">
+  </a>
+  &nbsp;
+  <a href="https://github.com/quangtruong2003">
+    <img src="https://img.shields.io/github/followers/quangtruong2003?style=flat&color=00fff7&labelColor=0d1117" alt="Followers" height="28">
+  </a>
+  &nbsp;
+  <a href="https://github.com/quangtruong2003">
+    <img src="https://img.shields.io/github/stars/quangtruong2003?style=flat&color=bf5af2&labelColor=0d1117" alt="Stars" height="28">
+  </a>
+</p>
 
 ---
 
@@ -86,10 +92,22 @@ class Developer {
 
 <p align="center">
 
-| Language | Framework | Database | DevOps | Others |
-|:--------:|:---------:|:--------:|:------:|:------:|
-| ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117) |
+<img src="https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge&logo=php&logoColor=white" height="36">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="36">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="36">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="36">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="36">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="36">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="36">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="36">
+<img src="https://img.shields.io/badge/Filament-1E40AF?style=for-the-badge&logoColor=white" height="36">
 
 </p>
 
@@ -101,9 +119,9 @@ class Developer {
 $ cat projects.md
 ```
 
-- **Property Management Platform** @ C3TEK — Full lifecycle rental management with automated billing, RBAC, and PDF generation
-- **Medical Appointment Booking** (Thesis) — Healthcare platform with VNPay integration and JWT authentication
-- **ChatBot (Android)** — AI conversational app with Firebase real-time sync
+- **Property Management Platform** @ C3TEK - Full lifecycle rental management with automated billing, RBAC, and PDF generation
+- **Medical Appointment Booking** (Thesis) - Healthcare platform with VNPay integration and JWT authentication
+- **ChatBot (Android)** - AI conversational app with Firebase real-time sync
 
 ---
 
@@ -111,10 +129,18 @@ $ cat projects.md
 
 <p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-39ff14?style=for-the-badge&logo=chrome&logoColor=0d1117&labelColor=0d1117)](https://portfolio-one-beryl-b8iwwqwkfu.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/quangtruong2003)
-[![Email](https://img.shields.io/badge/Email-Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:nguyentruongk530042003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/quangtruong2003)
+<a href="https://portfolio-one-beryl-b8iwwqwkfu.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Web-39ff14?style=for-the-badge&logo=chrome&logoColor=0d1117" height="36">
+</a>
+<a href="https://linkedin.com/in/quangtruong2003">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36">
+</a>
+<a href="mailto:nguyentruongk530042003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" height="36">
+</a>
+<a href="https://github.com/quangtruong2003">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36">
+</a>
 
 </p>
 
