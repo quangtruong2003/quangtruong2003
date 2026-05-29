@@ -44,26 +44,6 @@ class Developer {
 
 ---
 
-## <span style="color:#39ff14">></span> GitHub Statistics
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangtruong2003&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&show_icons=false&line_height=25&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=quangtruong2003&theme=highcontrast&hide_border=false&background=0d1117&stroke=39ff14&ring=00fff7&fire=39ff14&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangtruong2003&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&cache_seconds=1800)
-
-</p>
-
-<p align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=quangtruong2003&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&no-animate=true)
-
-</p>
-
----
-
 ## <span style="color:#39ff14">></span> Tech Stack
 
 <p align="center">
