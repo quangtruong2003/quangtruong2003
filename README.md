@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@quangtruong2003?theme=booru-smtg&scale=1.8" alt="Profile Views" height="72">
+  <img src="https://count.getloli.com/@quangtruong2003?theme=booru-smtg&scale=3.0" alt="Profile Views" height="auto">
 </p>
 
 ---
@@ -48,17 +48,17 @@ class Developer {
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangtruong2003&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&line_height=25&bg_color=0d1117&title_color=39ff14&icon_color=00fff7&text_color=c9d1d9&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangtruong2003&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&show_icons=false&line_height=25&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=quangtruong2003&theme=highcontrast&hide_border=false&background=0d1117&stroke=39ff14&ring=00fff7&fire=39ff14&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangtruong2003&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39ff14&icon_color=00fff7&text_color=c9d1d9&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangtruong2003&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&cache_seconds=1800)
 
 </p>
 
 <p align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=quangtruong2003&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=quangtruong2003&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&no-animate=true)
 
 </p>
 
