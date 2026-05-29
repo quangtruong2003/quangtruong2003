@@ -9,7 +9,7 @@
    "Code is poetry written in logic."
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=500&lines=Junior+PHP+Developer+%7C+Laravel+Backend+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=500&lines=PHP+Developer+%7C+Laravel+Backend+Engineer" alt="Typing SVG">
 </p>
 
 <div align="center">
@@ -31,10 +31,9 @@ namespace QuangTruong;
 
 class Developer {
     public $name     = "Nguyen Quang Truong";
-    public $role     = "Junior PHP Developer";
+    public $role     = "PHP Developer";
     public $focus    = "Backend Systems & API Architecture";
     public $location = "Ho Chi Minh City, Vietnam";
-    public $company  = "C3TEK Digital Marketing Solutions";
 
     public function currently_working_on() {
         return [
