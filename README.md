@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quangtruong2003&label=Profile+Views&color=39ff14" alt="Profile Views" height="24">
+  <img src="https://count.getloli.com/@quangtruong2003?theme=booru-smtg&scale=1.5" alt="Profile Views" height="50">
 </p>
 
 ---
