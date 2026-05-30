@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@quangtruong2003?theme=booru-smtg&scale=3.0" alt="Profile Views" height="50">
+  <img src="https://count.getloli.com/@quangtruong2003?theme=booru-smtg&scale=3.0&padding=10" alt="Profile Views" height="50">
 </p>
 
 ---
