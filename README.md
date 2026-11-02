@@ -1,6 +1,7 @@
 <!-- ====== BANNER ====== -->
-<h1 align="center">Nguyen Quang Truong</h1>
-<p align="center"><strong>Backend Systems &amp; Desktop Tools</strong></p>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Quang Truong — Build. Ship. Automate. Keep Learning." />
+</p>
 
 <!-- ====== TYPING LINE ====== -->
 <p align="center">
