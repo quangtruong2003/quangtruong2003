@@ -1,130 +1,81 @@
-<!--
-   ██████╗ ██╗   ██╗███████╗████████╗███████╗███╗   ███╗
-   ██╔══██╗██║   ██║██╔════╝╚══██╔══╝██╔════╝████╗ ████║
-   ██████╔╝██║   ██║███████╗   ██║   █████╗  ██╔████╔██║
-   ██╔══██╗██║   ██║╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
-   ██║  ██║╚██████╔╝███████║   ██║   ███████╗██║ ╚═╝ ██║
-   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
-   ─────────────────────────────────────────────────────
-   "Code is poetry written in logic."
--->
+<!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=420&lines=Developer+%7C+Software+Engineer" alt="Typing SVG">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=QUANG%20TRUONG&fontAlignY=35&desc=Backend%20Systems%20%26%20Desktop%20Tools&descAlignY=55&theme=radical"
+    alt="Nguyen Quang Truong — Backend Systems and Desktop Tools"
+  />
 </p>
 
+<!-- ====== TYPING LINE ====== -->
 <p align="center">
-  <img src="https://count.getloli.com/@quangtruong2003?theme=booru-smtg" alt="Profile Views" height="90">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Backend+%26+API+Development;Laravel+%26+PHP;Rust+%26+Desktop+Tools;Building+SmoothScroll;Always+learning+and+shipping"
+      alt="Backend and API development, Laravel, Rust, desktop tools, and SmoothScroll"
+    />
+  </a>
 </p>
 
----
-
-## <span style="color:#39ff14">></span> About Me
-
-```php
-<?php
-
-namespace QuangTruong;
-
-class Developer {
-    public $name     = "Nguyen Quang Truong";
-    public $role     = "Developer";
-    public $focus    = "Backend Systems & API Architecture";
-    public $location = "Ho Chi Minh City, Vietnam";
-
-    public function currently_working_on() {
-        return [
-            "Building scalable RESTful APIs with Laravel",
-            "Property Management Platform Development",
-            "Automating billing & invoice generation",
-            "RBAC system architecture"
-        ];
-    }
-}
-```
-
----
-
-## <span style="color:#39ff14">></span> Tech Stack
-
+<!-- ====== BADGES ====== -->
 <p align="center">
-
-```
-   ┌─────────────────────────────────────────────────────────────┐
-   │                        CORE SKILLS                         │
-   ├──────────┬──────────┬──────────┬──────────┬──────────────┤
-   │   PHP     │  Laravel  │   MySQL  │   REST   │   Filament   │
-   │   8+      │    12     │          │   API    │              │
-   ├──────────┼──────────┼──────────┼──────────┼──────────────┤
-   │ Git       │ Docker   │  Linux   │  OOP     │  Eloquent    │
-   │           │          │          │ Patterns │    ORM       │
-   └──────────┴──────────┴──────────┴──────────┴──────────────┘
-```
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge&logo=php&logoColor=white" height="36">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="36">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="36">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="36">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="36">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="36">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="36">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="36">
-<img src="https://img.shields.io/badge/Filament-1E40AF?style=for-the-badge&logoColor=white" height="36">
-
+  <img src="https://komarev.com/ghpvc/?username=quangtruong2003&style=flat-square&color=blue" alt="profile views" />
+  <a href="https://github.com/quangtruong2003?tab=followers">
+    <img src="https://img.shields.io/github/followers/quangtruong2003?style=flat-square" alt="followers" />
+  </a>
+  <a href="https://github.com/quangtruong2003?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/quangtruong2003?style=flat-square" alt="total stars" />
+  </a>
 </p>
 
 ---
 
-## <span style="color:#39ff14">></span> Currently Working On
-
-```bash
-$ cat projects.md
-```
-
-- **Property Management Platform** @ C3TEK - Full lifecycle rental management with automated billing, RBAC, and PDF generation
-- **Medical Appointment Booking** (Thesis) - Healthcare platform with VNPay integration and JWT authentication
-- **ChatBot (Android)** - AI conversational app with Firebase real-time sync
+## 🚀 About Me
+- 👋 I'm **Nguyen Quang Truong**, a developer based in Vietnam.
+- 🧩 I work on backend systems, APIs, and desktop tools.
+- 🖱️ Currently building [SmoothScroll](https://github.com/quangtruong2003/SmoothScroll), a Windows scrolling utility built with Rust and Tauri.
+- ⚙️ I enjoy turning practical problems into useful software.
 
 ---
 
-## <span style="color:#39ff14">></span> Connect
-
+## 🧰 Tech Stack
 <p align="center">
-
-<a href="https://portfolio-one-beryl-b8iwwqwkfu.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Web-39ff14?style=for-the-badge&logo=chrome&logoColor=0d1117" height="36">
-</a>
-<a href="https://linkedin.com/in/quangtruong2003">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36">
-</a>
-<a href="mailto:nguyentruongk530042003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" height="36">
-</a>
-<a href="https://github.com/quangtruong2003">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36">
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,rust,tauri,typescript,react,docker,git,linux&perline=5" alt="PHP, Laravel, MySQL, Rust, Tauri, TypeScript, React, Docker, Git, and Linux" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
+## 📈 GitHub Stats
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=quangtruong2003&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
 
-```
-   ─────────────────────────────────────────────────────
-   "First, solve the problem. Then, write the code."
-                            — John Johnson
-   ─────────────────────────────────────────────────────
-```
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangtruong2003&theme=radical" alt="GitHub profile summary" />
+</p>
 
-</div>
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangtruong2003&theme=radical" alt="GitHub stats summary" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangtruong2003&theme=radical&utcOffset=7" alt="Productive time in Vietnam time (UTC+7)" />
+</p>
+
+---
+
+## 📉 Activity Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/quangtruong2003" alt="GitHub contribution activity graph" />
+</p>
+
+---
+
+## 📫 Contact
+- 🌐 Portfolio: [quangtruong2003](https://portfolio-one-beryl-b8iwwqwkfu.vercel.app)
+- 💼 LinkedIn: [quangtruong2003](https://linkedin.com/in/quangtruong2003)
+- 📧 Email: [nguyentruongk530042003@gmail.com](mailto:nguyentruongk530042003@gmail.com)
+- 🐙 GitHub: [@quangtruong2003](https://github.com/quangtruong2003)
+
+<!-- ====== FOOTER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=radical" alt="Decorative footer wave" />
+</p>
