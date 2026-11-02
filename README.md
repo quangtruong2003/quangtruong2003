@@ -14,13 +14,15 @@
 
 <!-- ====== BADGES ====== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quangtruong2003&style=flat-square&color=blue" alt="profile views" />
   <a href="https://github.com/quangtruong2003?tab=followers">
     <img src="https://img.shields.io/github/followers/quangtruong2003?style=flat-square" alt="followers" />
   </a>
   <a href="https://github.com/quangtruong2003?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/quangtruong2003?style=flat-square" alt="total stars" />
   </a>
+</p>
+<p align="center">
+  <img src="https://count.getloli.com/@quangtruong2003?theme=booru-smtg" alt="Profile Views" height="90" />
 </p>
 
 ---
