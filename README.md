@@ -1,10 +1,6 @@
 <!-- ====== BANNER ====== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=QUANG%20TRUONG&fontAlignY=35&desc=Backend%20Systems%20%26%20Desktop%20Tools&descAlignY=55&theme=radical"
-    alt="Nguyen Quang Truong — Backend Systems and Desktop Tools"
-  />
-</p>
+<h1 align="center">Nguyen Quang Truong</h1>
+<p align="center"><strong>Backend Systems &amp; Desktop Tools</strong></p>
 
 <!-- ====== TYPING LINE ====== -->
 <p align="center">
@@ -76,6 +72,4 @@
 - 🐙 GitHub: [@quangtruong2003](https://github.com/quangtruong2003)
 
 <!-- ====== FOOTER ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=radical" alt="Decorative footer wave" />
-</p>
+<p align="center">Thanks for stopping by ✨</p>
